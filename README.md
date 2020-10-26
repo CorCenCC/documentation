@@ -23,5 +23,5 @@ This work was carried out as part of the UK Economic and Social Research Council
 ## Documentation provided
 
 * [Transcription conventions](CorCenCC_transcription_conventions.pdf)
-* [Coding scheme][CorCenCC_taxonomy.pdf] 
+* [Coding scheme](CorCenCC_taxonomy.pdf)
 
