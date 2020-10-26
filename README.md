@@ -8,11 +8,11 @@ The CorCenCC corpus and associated software tools are licensed under Creative Co
  
 * Report: Knight, D., Morris, S., Fitzpatrick, T., Rayson, P., Spasić, I. and Thomas, E. M. (2020). The National Corpus of Contemporary Welsh: Project Report | Y Corpws Cenedlaethol Cymraeg Cyfoes: Adroddiad y Prosiect. arXiv:2010.05542, October 2020. Available online at: https://arxiv.org/abs/2010.05542
  
-* CorCenCC’s infrastructure and crowdsourcing app: Knight, D., Loizides, F., Neale, S., Anthony, L. and Spasić, I. (2020). Developing computational infrastructure for the CorCenCC corpus – the National Corpus of Contemporary Welsh. Language Resources and Evaluation (LREV).
+* CorCenCC’s infrastructure and crowdsourcing app: Knight, D., Loizides, F., Neale, S., Anthony, L. and Spasić, I. (2020). Developing computational infrastructure for the CorCenCC corpus – the National Corpus of Contemporary Welsh. Language Resources and Evaluation (LREV). https://doi.org/10.1007/s10579-020-09501-9
  
-* CorCenCC’s part-of-speech (POS) tagger ‘CyTag’: Neale, S., Donnelly, K., Watkins, G. and Knight, D. (2018). Leveraging Lexical Resources and Constraint Grammar for Rule-Based Part-of-Speech Tagging in Welsh. Poster presented at the LREC (Language Resources Evaluation) 2018 Conference, May 2018, Miyazaki, Japan.
+* CorCenCC’s part-of-speech (POS) tagger ‘CyTag’: Neale, S., Donnelly, K., Watkins, G. and Knight, D. (2018). Leveraging Lexical Resources and Constraint Grammar for Rule-Based Part-of-Speech Tagging in Welsh. Poster presented at the LREC (Language Resources Evaluation) 2018 Conference, May 2018, Miyazaki, Japan. https://www.aclweb.org/anthology/L18-1623/
  
-* CorCenCC’s semantic tagger ‘CySemTagger’: Piao, S., Rayson, P., Knight, D. and Watkins, G. (2018). Towards a Welsh Semantic Annotation System. Proceedings of the LREC (Language Resources Evaluation) 2018 Conference, May 2018, Miyazaki, Japan.
+* CorCenCC’s semantic tagger ‘CySemTagger’: Piao, S., Rayson, P., Knight, D. and Watkins, G. (2018). Towards a Welsh Semantic Annotation System. Proceedings of the LREC (Language Resources Evaluation) 2018 Conference, May 2018, Miyazaki, Japan. https://www.aclweb.org/anthology/L18-1158/
  
 * CorCenCC’s pedagogic toolkit ‘Y Tiwtiadur’: Davies, J., Thomas, E-M., Fitzpatrick, T., Needs, J., Anthony, L., Cobb, T. and Knight, D. (2020). Y Tiwtiadur. [Digital Resource]. Available at: https://www.corcencc.org/Y-Tiwtiadur
  
@@ -22,6 +22,6 @@ This work was carried out as part of the UK Economic and Social Research Council
  
 ## Documentation provided
 
-* Transcription conventions
-* Coding scheme 
+* [Transcription conventions](CorCenCC_transcription_conventions.pdf)
+* [Coding scheme][CorCenCC_taxonomy.pdf] 
 
