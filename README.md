@@ -21,9 +21,6 @@ The CorCenCC corpus and associated software tools are licensed under Creative Co
 ## Acknowledgements
 
 This work was carried out as part of the UK Economic and Social Research Council (ESRC) and Arts and Humanities Research Council (AHRC) funded Corpws Cenedlaethol Cymraeg Cyfoes (The National Corpus of Contemporary Welsh): A community driven approach to linguistic corpus construction project (Grant Number ES/M011348/1). For more information, go to www.corcencc.org | www.corcencc.cymru
-
-## License
-The CorCenCC corpus and associated software tools are licensed under Creative Commons CC-BY-SA v4 and thus are freely available for use by professional communities and individuals with an interest in language. When reporting information derived by using the CorCenCC corpus data and/or tools, CorCenCC should be appropriately acknowledged, 
  
 ## Documentation provided
 
