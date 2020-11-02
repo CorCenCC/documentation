@@ -1,6 +1,8 @@
 # CorCenCC project overview and how to cite
 
 CorCenCC (Corpws Cenedlaethol Cymraeg Cyfoes – the National Corpus of Contemporary Welsh)  is an inter-disciplinary and multi-institutional project that has created a large-scale, open-source corpus of contemporary Welsh. The CorCenCC corpus contains over 11 million words (circa 14 million tokens) from written, spoken and electronic (online, digital texts) Welsh language sources, taken from a range of genres, language varieties (regional and social) and contexts. The contributors to CorCenCC are representative of the over half a million Welsh speakers in the country.
+
+Information on how to request access to the CorCenCC dataset is available here: www.corcencc.org/download 
  
 The CorCenCC corpus and associated software tools are licensed under Creative Commons CC-BY-SA v4 and thus are freely available for use by professional communities and individuals with an interest in language. Bespoke applications and instructions are provided for each tool. When reporting information derived by using the CorCenCC corpus data and/or tools, CorCenCC should be appropriately acknowledged, as follows:
  
